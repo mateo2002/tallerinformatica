@@ -41,7 +41,7 @@ function ItemMenu(etiqueta, direccion, clase, type) {
     this.nombre = etiqueta;
     this.direccion = direccion;
     this.cuerpoHtml = function() {
-        return '<li class="' + this.type + '"><a class="' + this.ItemClass + '" aria-current="page" href="' + this.direccion + '">' + this.get() + '</a></li>'
+        return '<li class="' + this.type + '"><a class="' + this.ItemClass + '" aria-current="page" href="' + direccion + '">' + this.get() + '</a></li>'
     }
 }
 
