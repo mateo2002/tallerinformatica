@@ -1,0 +1,2 @@
+Como puedo crear Tarjetas con diferente descripcion con el for... porque en este caso que tengo creado el titulo es el mismo.
+Si son diferentes en cuanto a la foto y la descripcion no puedo usar el for ?
